@@ -1,0 +1,8 @@
+## Interface: 100260
+## Author: TheSaltySeagull
+## Version: 0.1a
+## Title: |cff1784d1ElvUI|r |cff00b3ffMyElvUI_Extra|r
+## Notes: ElvUI Plugin Framework to extend ElvUI functionality.
+## RequiredDeps: ElvUI
+
+ElvUI_Extra.lua
