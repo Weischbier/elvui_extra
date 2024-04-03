@@ -6,7 +6,7 @@ ElvUI_Extra is an addon for World of Warcraft that enhances the functionality of
 
 - **Show Only Friendly Target Frame**: Toggle this option to display the target frame only when targeting another player to enable the context menu.
 - **ElvUI is required**
-- **A proper Plater or other Nameplate profile should be used**
+- **A proper [Plater](https://www.curseforge.com/wow/addons/plater-nameplates) or other Nameplate [profile](https://wago.io/plater) should be used**
 
 ## Installation
 
